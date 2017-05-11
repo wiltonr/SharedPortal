@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter table="x_snc_k17_tpm_theme_park_request">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>0</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">07f2a5af20e632007f446a00c881da08</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Record Counter">f175e508d40632007f44c8341d4d3b6c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-11 16:52:46</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>fe63e5af20e632007f446a00c881dad4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>All Open Issues</sys_name>
+        <sys_package display_value="Theme Park Management" source="x_snc_k17_tpm">5a7959e04f75b640bf0ecfce0310c7d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Theme Park Management">5a7959e04f75b640bf0ecfce0310c7d4</sys_scope>
+        <sys_update_name>sp_instance_table_fe63e5af20e632007f446a00c881dad4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-11 16:55:35</sys_updated_on>
+        <table>x_snc_k17_tpm_theme_park_request</table>
+        <title>All Open Issues</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=fe63e5af20e632007f446a00c881dad4"/>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Order Plasticware">2f5d02094f753a40bf0ecfce0310c7b8</sc_cat_item>
+        <sc_category display_value="Dining">6dfcd1284f75b640bf0ecfce0310c757</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-27 18:44:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a75d02094f753a40bf0ecfce0310c7bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dining.Order Plasticware</sys_name>
+        <sys_package display_value="Theme Park Management" source="x_snc_k17_tpm">5a7959e04f75b640bf0ecfce0310c7d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Theme Park Management">5a7959e04f75b640bf0ecfce0310c7d4</sys_scope>
+        <sys_update_name>sc_cat_item_category_a75d02094f753a40bf0ecfce0310c7bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-27 18:44:08</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

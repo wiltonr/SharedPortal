@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_css_include">
+    <sp_css_include action="INSERT_OR_UPDATE">
+        <name>theme-park-mgmt-main.css</name>
+        <source>local</source>
+        <sp_css display_value="theme-park-mgmt-main.css">65db512f20e632007f446a00c881daf2</sp_css>
+        <sys_class_name>sp_css_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-11 16:17:54</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>186b512f20e632007f446a00c881da7f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>theme-park-mgmt-main.css</sys_name>
+        <sys_package display_value="Theme Park Management" source="x_snc_k17_tpm">5a7959e04f75b640bf0ecfce0310c7d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Theme Park Management">5a7959e04f75b640bf0ecfce0310c7d4</sys_scope>
+        <sys_update_name>sp_css_include_186b512f20e632007f446a00c881da7f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-11 16:20:54</sys_updated_on>
+        <url/>
+    </sp_css_include>
+</record_update>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="sp_page">idSTARTSWITHsc_home^idISNOTEMPTY^EQ<item endquery="false" field="id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="sc_home"/>
+            <item endquery="false" field="id" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used>2017-04-07 17:47:35</last_used>
+        <mobile>true</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>jc</sys_created_by>
+        <sys_created_on>2017-04-07 17:47:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>66e9a2ecd40672007f44c8341d4d3b4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mobile</sys_name>
+        <sys_package display_value="Theme Park Management" source="x_snc_k17_tpm">5a7959e04f75b640bf0ecfce0310c7d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Theme Park Management">5a7959e04f75b640bf0ecfce0310c7d4</sys_scope>
+        <sys_update_name>sys_filter_66e9a2ecd40672007f44c8341d4d3b4c</sys_update_name>
+        <sys_updated_by>jc</sys_updated_by>
+        <sys_updated_on>2017-04-07 17:47:35</sys_updated_on>
+        <table>sp_page</table>
+        <title>mobile</title>
+        <user display_value="">8ac6dc44d40232007f44c8341d4d3b91</user>
+    </sys_filter>
+</record_update>

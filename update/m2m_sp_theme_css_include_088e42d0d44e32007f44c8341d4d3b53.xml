@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="m2m_sp_theme_css_include">
+    <m2m_sp_theme_css_include action="INSERT_OR_UPDATE">
+        <order/>
+        <sp_css_include display_value="support-portal-header.css">e93969d0d40e32007f44c8341d4d3b52</sp_css_include>
+        <sp_theme display_value="Theme Park Management Theme">5f8aa6854ff53a40bf0ecfce0310c71b</sp_theme>
+        <sys_class_name>m2m_sp_theme_css_include</sys_class_name>
+        <sys_created_by>jc</sys_created_by>
+        <sys_created_on>2017-04-06 21:09:20</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>088e42d0d44e32007f44c8341d4d3b53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>support-portal-header.css.Theme Park Management Theme</sys_name>
+        <sys_package display_value="Theme Park Management" source="x_snc_k17_tpm">5a7959e04f75b640bf0ecfce0310c7d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Theme Park Management">5a7959e04f75b640bf0ecfce0310c7d4</sys_scope>
+        <sys_update_name>m2m_sp_theme_css_include_088e42d0d44e32007f44c8341d4d3b53</sys_update_name>
+        <sys_updated_by>jc</sys_updated_by>
+        <sys_updated_on>2017-04-06 21:09:20</sys_updated_on>
+    </m2m_sp_theme_css_include>
+</record_update>

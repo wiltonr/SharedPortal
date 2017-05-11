@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <description/>
+        <display_title>false</display_title>
+        <layout>normal</layout>
+        <name>Theme Park Request</name>
+        <order>100</order>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-26 01:58:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4ead9d284f75b640bf0ecfce0310c79a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Theme Park Request</sys_name>
+        <sys_package display_value="Theme Park Management" source="x_snc_k17_tpm">5a7959e04f75b640bf0ecfce0310c7d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Theme Park Management">5a7959e04f75b640bf0ecfce0310c7d4</sys_scope>
+        <sys_update_name>item_option_new_set_4ead9d284f75b640bf0ecfce0310c79a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-26 01:58:50</sys_updated_on>
+        <title/>
+    </item_option_new_set>
+</record_update>

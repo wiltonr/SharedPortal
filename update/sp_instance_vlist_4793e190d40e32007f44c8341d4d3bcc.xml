@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field>short_description</display_field>
+        <field_list/>
+        <filter table="kb_knowledge">kb_category=fa461d9cd4ca32007f44c8341d4d3be9^workflow_state=published^kb_knowledge_base=a034dacd4f753a40bf0ecfce0310c776<item display_table="kb_category" display_value="Announcements" endquery="false" field="kb_category" goto="false" newquery="false" operator="=" or="false" value="fa461d9cd4ca32007f44c8341d4d3be9"/>
+            <item endquery="false" field="workflow_state" goto="false" newquery="false" operator="=" or="false" value="published"/>
+            <item display_table="kb_knowledge_base" display_value="Theme Park Management" endquery="false" field="kb_knowledge_base" goto="false" newquery="false" operator="=" or="false" value="a034dacd4f753a40bf0ecfce0310c776"/>
+        </filter>
+        <glyph>question</glyph>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">bf83e190d40e32007f44c8341d4d3b8a</sp_column>
+        <sp_page display_value="kb_article">dea5792147132100ba13a5554ee4902d</sp_page>
+        <sp_widget display_value="Simple List">5b255672cb03020000f8d856634c9c28</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>jc</sys_created_by>
+        <sys_created_on>2017-04-06 18:01:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4793e190d40e32007f44c8341d4d3bcc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Theme Park Management" source="x_snc_k17_tpm">5a7959e04f75b640bf0ecfce0310c7d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Theme Park Management">5a7959e04f75b640bf0ecfce0310c7d4</sys_scope>
+        <sys_update_name>sp_instance_vlist_4793e190d40e32007f44c8341d4d3bcc</sys_update_name>
+        <sys_updated_by>jc</sys_updated_by>
+        <sys_updated_on>2017-04-07 19:56:42</sys_updated_on>
+        <table>kb_knowledge</table>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"always_show": {
+		"value": "",
+		"displayValue": ""
+	},
+	"panel_body_height": {
+		"value": "",
+		"displayValue": ""
+	},
+	"image_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "published,category",
+		"displayValue": "published,category"
+	},
+	"rounded_images": {
+		"value": "",
+		"displayValue": ""
+	},
+	"list_page": {
+		"value": "b574e51147132100ba13a5554ee4903e",
+		"displayValue": "list"
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="delete_multiple" query="documentkey=4793e190d40e32007f44c8341d4d3bcc"/>
+</record_update>

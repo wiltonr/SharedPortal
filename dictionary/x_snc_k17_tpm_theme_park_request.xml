@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Theme Park Request" max_length="40" name="x_snc_k17_tpm_theme_park_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="category" type="string">
+            <choice>
+                <element label="Safety" sequence="0" value="Safety"/>
+                <element label="Ride" sequence="1" value="Ride"/>
+                <element label="Parking" sequence="2" value="Parking"/>
+                <element label="Ticketing" sequence="3" value="Ticketing"/>
+                <element label="Dining" sequence="4" value="Dining"/>
+                <element label="Landscape" sequence="5" value="Landscape"/>
+            </choice>
+        </element>
+    </element>
+</database>

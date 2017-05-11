@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="u_sp_instance_tile_link">
+    <u_sp_instance_tile_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>fire</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>0</order>
+        <sc_cat_item display_value="Report a Theme Park issue">8e8a2c8cd40232007f44c8341d4d3b54</sc_cat_item>
+        <sc_category/>
+        <short_description>Something broken?  Report an issue here and we'll respond ASAP.</short_description>
+        <size>md</size>
+        <sp_column display_value="1">ab20296f20e632007f446a00c881da7b</sp_column>
+        <sp_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</sp_page>
+        <sp_widget display_value="Tile Link">ec9f3c44d44232007f44c8341d4d3b35</sp_widget>
+        <sys_class_name>u_sp_instance_tile_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-11 16:39:20</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>8250e56f20e632007f446a00c881daa6</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Report an issue</sys_name>
+        <sys_package display_value="Theme Park Management" source="x_snc_k17_tpm">5a7959e04f75b640bf0ecfce0310c7d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Theme Park Management">5a7959e04f75b640bf0ecfce0310c7d4</sys_scope>
+        <sys_update_name>u_sp_instance_tile_link_8250e56f20e632007f446a00c881daa6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-11 16:42:24</sys_updated_on>
+        <title>Report an issue</title>
+        <type>sc_cat_item</type>
+        <u_background_image>9c70696f20e632007f446a00c881da80.iix?t=m</u_background_image>
+        <url/>
+        <widget_parameters/>
+    </u_sp_instance_tile_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=8250e56f20e632007f446a00c881daa6"/>
+</record_update>

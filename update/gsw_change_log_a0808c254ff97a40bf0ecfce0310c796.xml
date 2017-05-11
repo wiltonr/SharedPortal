@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2017-03-28 21:45:40</change_date>
+        <changed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</changed_by>
+        <content display_value="">88e2668b13e1120009c43d62f244b0da</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-28 21:45:40</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a0808c254ff97a40bf0ecfce0310c796</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2017-03-28 21:45:40</sys_name>
+        <sys_package display_value="Theme Park Management" source="x_snc_k17_tpm">5a7959e04f75b640bf0ecfce0310c7d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Theme Park Management">5a7959e04f75b640bf0ecfce0310c7d4</sys_scope>
+        <sys_update_name>gsw_change_log_a0808c254ff97a40bf0ecfce0310c796</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-28 21:45:40</sys_updated_on>
+        <type>1</type>
+    </gsw_change_log>
+</record_update>
